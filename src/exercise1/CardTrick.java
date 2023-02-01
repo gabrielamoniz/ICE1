@@ -75,8 +75,9 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Gabriela");
+        System.out.println("Hi, my name is Gabriela");
         System.out.println("I love cats");
+	System.out.println("I have a travel blog");
         
         System.out.println("My career ambitions:");
         System.out.println("-- Find a good job after I graduate");
@@ -85,7 +86,7 @@ public class CardTrick {
 
         System.out.println("My hobbies:");
         System.out.println("-- Travelling");
-        System.out.println("-- Staying with my kids");
+        System.out.println("-- Travel with my husband and kids");
         System.out.println("-- Cooking");
         System.out.println();
 
