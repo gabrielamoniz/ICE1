@@ -76,7 +76,7 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My name is Gabriela");
-        System.out.println();
+        System.out.println("I love cats");
         
         System.out.println("My career ambitions:");
         System.out.println("-- Find a good job after I graduate");
