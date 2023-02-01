@@ -10,6 +10,7 @@ import java.util.Scanner;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
+ * @author Gabriela Moniz Feb 1, 2023
  */
 public class CardTrick {
     
